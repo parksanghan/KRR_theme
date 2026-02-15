@@ -1,0 +1,125 @@
+; Copyright � Microsoft Corp.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO_LIGHT
+DisplayName=KRR_theme
+ThemeId={33CB9605-C001-4F36-8499-6CC6707D1F5E}
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-109
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-123
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-25
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\System32\imageres.dll,-54
+Empty=%SystemRoot%\System32\imageres.dll,-55
+
+[Control Panel\Cursors]
+AppStarting=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_008＿ｐｐ.cur
+Arrow=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_0001123.cur
+Hand=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_004＿ｐｐ.cur
+Help=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_000_01_pp.cur
+IBeam=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\converted_image_transparent.cur
+No=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_015_pp.cur
+NWPen=%SystemRoot%\cursors\aero_pen.cur
+SizeAll=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_003＿ｐｐ.cur
+SizeNESW=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_005＿ｐｐ.cur
+SizeNS=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_010_01＿ｐｐ.cur
+SizeNWSE=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_009_01＿ｐｐ (1).cur
+SizeWE=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_009_pp.cur
+UpArrow=%SystemRoot%\cursors\aero_up.cur
+Wait=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_013_01_pp.cur
+DefaultValue=Windows Aero
+Crosshair=
+
+[Control Panel\Desktop]
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=0
+Wallpaper=
+WindowsSpotlight=0
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XC4B146C2
+SystemMode=Dark
+AppMode=Dark
+VisualStyleVersion=10
+
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Windows 기본값
+
+[Control Panel\Cursors.A]
+AppStarting=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_008＿ｐｐ.cur
+Hand=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_004＿ｐｐ.cur
+SizeAll=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_003＿ｐｐ.cur
+SizeNS=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_010_01＿ｐｐ.cur
+SizeNWSE=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_009_01＿ｐｐ (1).cur
+SizeNESW=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\kerorothe\keroro_face_005＿ｐｐ.cur
+[Control Panel\Cursors.W]
+DefaultValue=Windows +rjC8+KwS-
+Help=+ACU-USERPROFILE+ACUAXA-Downloads+AFw-keroor+AFw-KERORO+AF8-FACE+AF8-005+/z//UP9Q-.cur
+Hand=+ACU-USERPROFILE+ACUAXA-AppData+AFw-Local+AFw-Microsoft+AFw-Windows+AFw-Themes+AFw-kerorothe+AFw-keroro+AF8-face+AF8-004+/z//UP9Q-.cur
+AppStarting=+ACU-USERPROFILE+ACUAXA-AppData+AFw-Local+AFw-Microsoft+AFw-Windows+AFw-Themes+AFw-kerorothe+AFw-keroro+AF8-face+AF8-008+/z//UP9Q-.cur
+Wait=+ACU-USERPROFILE+ACUAXA-Downloads+AFw-keroor+AFw-KERORO+AF8-FACE+AF8-008+/z//MP8w-.cur
+SizeWE=+ACU-USERPROFILE+ACUAXA-Downloads+AFw-keroor+AFw-KERORO+AF8-FACE+AF8-009+AF8-01+/z//UP9Q-.cur
+SizeNWSE=+ACU-USERPROFILE+ACUAXA-AppData+AFw-Local+AFw-Microsoft+AFw-Windows+AFw-Themes+AFw-kerorothe+AFw-keroro+AF8-face+AF8-009+AF8-01+/z//UP9Q- (1).cur
+SizeAll=+ACU-USERPROFILE+ACUAXA-AppData+AFw-Local+AFw-Microsoft+AFw-Windows+AFw-Themes+AFw-kerorothe+AFw-keroro+AF8-face+AF8-003+/z//UP9Q-.cur
+No=+ACU-USERPROFILE+ACUAXA-Downloads+AFw-keroor+AFw-KERORO+AF8-FACE+AF8-003+/z//UP9Q-.cur
+SizeNS=+ACU-USERPROFILE+ACUAXA-AppData+AFw-Local+AFw-Microsoft+AFw-Windows+AFw-Themes+AFw-kerorothe+AFw-keroro+AF8-face+AF8-010+AF8-01+/z//UP9Q-.cur
+SizeNESW=+ACU-USERPROFILE+ACUAXA-AppData+AFw-Local+AFw-Microsoft+AFw-Windows+AFw-Themes+AFw-kerorothe+AFw-keroro+AF8-face+AF8-005+/z//UP9Q-.cur
+[Theme.A]
+[Theme.W]
+DisplayName=+yADHpdVYycA- +xUrHQA- +0Uy5yA-
+[Control Panel\Colors]
+Scrollbar=200 200 200
+Background=0 0 0
+ActiveTitle=153 180 209
+InactiveTitle=191 205 219
+Menu=240 240 240
+Window=255 255 255
+WindowFrame=100 100 100
+MenuText=0 0 0
+WindowText=0 0 0
+TitleText=0 0 0
+ActiveBorder=180 180 180
+InactiveBorder=244 247 252
+AppWorkspace=171 171 171
+Hilight=0 120 215
+HilightText=255 255 255
+ButtonFace=240 240 240
+ButtonShadow=160 160 160
+GrayText=109 109 109
+ButtonText=0 0 0
+InactiveTitleText=0 0 0
+ButtonHilight=255 255 255
+ButtonDkShadow=105 105 105
+ButtonLight=227 227 227
+InfoText=0 0 0
+InfoWindow=255 255 225
+ButtonAlternateFace=0 0 0
+HotTrackingColor=0 102 204
+GradientActiveTitle=185 209 234
+GradientInactiveTitle=215 228 242
+MenuHilight=51 153 255
+MenuBar=240 240 240
+[Sounds.A]
+SchemeName=Windows 기본값
+[Sounds.W]
+SchemeName=Windows +rjC8+KwS-
